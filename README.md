@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
