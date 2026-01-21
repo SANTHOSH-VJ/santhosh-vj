@@ -3,7 +3,7 @@
 🚀 I'm currently working on cloud & web projects  
 🤝 Looking to collaborate on Open Source  
 📚 Learning System Design & AWS  
-⚡ Fun fact: I love building real-world projects  
+⚡ Fun fact:  I myself is a fun fact 
 
 
 ## 🌍 Socials
