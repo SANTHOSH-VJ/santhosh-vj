@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 
 ### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,linux,githubactions" />
 
 ### 🗄 Databases & BaaS
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
