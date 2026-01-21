@@ -17,19 +17,19 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 ### ⚙ Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 ### ☁ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions" />
 
 ### 🗄 Databases & BaaS
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
