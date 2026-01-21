@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=java,python" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 ### ⚙ Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs" />
